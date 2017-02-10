@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\administrator\documents\visual studio 2015\projects\clac\clac\source.cpp(47): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\clac\clac\source.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  clac.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\clac\Debug\clac.exe
+  clac.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\clac\Debug\clac.pdb (Full PDB)
